@@ -1,5 +1,5 @@
-#pragma warning(disable : 4996)
 #define NDEBUG
+#pragma warning(disable : 4996)
 #include <stdlib.h>
 #include <GL/glut.h>
 #include<string.h>
